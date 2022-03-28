@@ -13,8 +13,6 @@ window = Tk()
 title = Label(window, text='Date Calculator', font=("Arial", 20, font.BOLD), fg='#0560B6').pack(pady=25)
 
 def main():
-
-
     style = ttk.Style(window)
     window.tk.call('source', '/Users/Amarn/OneDrive - Da Vinci College/Da Vinci College/software_developen/Assignments/jaar_1/periode_1/fase_1/08_wat_zie_ik_nou_GUI-beuren/leerpad_03/gui-formulieren/themes/sun-valley.tcl')
     style.theme_use('sun-valley-light')

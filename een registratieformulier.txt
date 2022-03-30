@@ -1,0 +1,5 @@
+besproken met meneer Slemmer en ik mag deze opdracht overslaan.
+
+Beargumentering:
+
+In de voorgaande opdrachten heb ik soortgelijke technieken moeten gebruiken. In principe is het meerdere entry's maken en de waarde daarvan dan ophalen op het moment dat de knop word ingedrukt. Dit heb ik al heel vaak gedaan bij vorige opdrachten.
